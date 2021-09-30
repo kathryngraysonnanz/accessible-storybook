@@ -9,6 +9,7 @@ module.exports = {
     '@storybook/addon-a11y',
     'storybook-dark-mode',
     'addon-screen-reader',
-    'aria-live-storybook-addon'
+    'aria-live-storybook-addon',
+    'storybook-addon-pseudo-states'
   ]
 }
