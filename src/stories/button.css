@@ -16,6 +16,12 @@
   background-color: transparent;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
 }
+
+.lights-out .storybook-button--secondary {
+    color: white;
+    border: 1px solid white;
+}
+
 .storybook-button--small {
   font-size: 12px;
   padding: 10px 16px;

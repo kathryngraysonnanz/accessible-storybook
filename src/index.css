@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.lights-out h1, .lights-out h2, .lights-out p, .lights-out ul, .lights-out li {
+    color: white;
+}
