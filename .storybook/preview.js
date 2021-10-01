@@ -1,9 +1,10 @@
 import { themes } from '@storybook/theming';
+import customDarkTheme from './customDarkTheme'
 
 export const parameters = {
   darkMode: {
     // Override the default dark theme
-    dark: { ...themes.dark, appBg: 'black' },
+    dark: { ...customDarkTheme, appBg: 'black' },
     // Override the default light theme
     light: { ...themes.normal, appBg: 'white' },
     current: 'dark',
